@@ -10,6 +10,8 @@ ___
 - BUCKET 🪣
 - EHBABA 🍽️
 - BULB 💡
+- safety-cloth-pin 🧷
+- note{{"Ehbaba Eelectronics"}}
 - 2PIN 🔌
 - UNITTEST 🏯(EG:+OR-)
 - SWITCH BOARD ⌨️
