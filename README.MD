@@ -1,0 +1,4 @@
+- boil water fist
+- keep it warm for at list a day
+- then try to store charge at list a month 
+- then light a bulb for 1 HOUR this is importance/AMP 
