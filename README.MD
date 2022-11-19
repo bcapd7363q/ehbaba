@@ -11,6 +11,7 @@ ___
 - EHBABA 🍽️
 - BULB 💡
 - safety-cloth-pin 🧷
+- Glubs 🦾 🎩
 - note{{"Ehbaba Eelectronics"}}
 - 2PIN 🔌
 - UNITTEST 🏯(EG:+OR-)
