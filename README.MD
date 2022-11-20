@@ -46,8 +46,8 @@ Secondary src:target (___multiplication:127.0.0.1:8000___)
     Calculator[🍎](509*509)=>{return number(259081)}
 }
 ```
-- [x] unit test
-- [x] push
-- [x] public
+- [x]{⛑️} unit test
+- [x]{💃} push
+- [x]{🎢} public
 
 
